@@ -6,7 +6,7 @@
     display: grid;
 
     grid-template-areas: "header header" "menu menu"  " content content" "footer footer";
-    grid-template-rows: 50px 270px 540px 100px;
+    grid-template-rows: 50px 300px 540px 100px;
     grid-gap: 5px;
     height: 100vh;
 }
@@ -150,6 +150,12 @@
     text-align: center;
 
 }
+.cuadro{
+  
+    width: 65px;
+    height: 40px;
+
+}
 .marimge{
  
     display: flex;
@@ -160,6 +166,15 @@
     width: 200px;
     height: 200px;
 
+}
+
+.contenido{
+    font-size: 15px;
+    color: black;
+}
+.nom{
+    font-size: 20px;
+    color: black;
 }
 
 /*
