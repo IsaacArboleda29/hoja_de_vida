@@ -6,22 +6,26 @@
     display: grid;
 
     grid-template-areas: "header header" "menu menu"  " content content" "footer footer";
-    grid-template-rows: 120px 60px 455px 60px;
+    grid-template-rows: 50px 110px 540px 100px;
     grid-gap: 5px;
     height: 100vh;
 }
 
 .item {
-    background-color: dodgerblue;
+    background-color: rgb(224, 228, 235);
     padding: 50px;
     border: 1px solid lightgray;
 }
 
 .header {
-    grid-area: header;font-size: 40px;
-    color: aliceblue;
+    grid-area: header;font-size: 20px;
+    color: rgb(5, 5, 5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-weight: bolder;
     text-align: center;
+    padding: 10px;
     
 }
 
@@ -110,4 +114,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+
+
+
+.item-button {
+    
+    width:  200px;
+    height: 40px;
+    
+    
+
 }
