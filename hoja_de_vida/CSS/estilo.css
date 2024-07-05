@@ -14,7 +14,7 @@
 .item {
     background-color: rgb(224, 228, 235);
     padding: 50px;
-    border: 1px solid lightgray;
+   border: 1px solid lightgray;
 }
 
 .header {
@@ -131,6 +131,10 @@
     
     width:  200px;
     height: 40px;
+    background-color: rgb(224, 228, 235);
+    
+    
+    
   
 }
 

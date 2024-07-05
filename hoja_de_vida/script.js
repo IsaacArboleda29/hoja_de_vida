@@ -4,7 +4,9 @@ function irADatos(){
 }
 function irAEstudios(){
    location.href="itens/estudios.html"
+   
 }
+
 function irACursos(){
    location.href="itens/Cursos.html"
 }
