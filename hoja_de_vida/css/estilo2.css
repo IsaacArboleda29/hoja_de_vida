@@ -6,7 +6,7 @@
     display: grid;
 
     grid-template-areas: "header header" "menu menu"  " content content" "footer footer";
-    grid-template-rows: 50px 750px 320px 200px;
+    grid-template-rows: 50px 595px 320px 200px;
     grid-gap: 5px;
     height: 100vh;
 }

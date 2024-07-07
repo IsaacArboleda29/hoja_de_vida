@@ -1,3 +1,4 @@
+
 function irADatos(){
     location.href="index.html"
 }
