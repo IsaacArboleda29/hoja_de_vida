@@ -8,8 +8,8 @@ function irAEstudios(){
 }
 
 function irACursos(){
-   location.href="itens/Cursos.html"
+   location.href="itens/cursos.html"
 }
 function irAExperiencia(){
-   location.href="itens/Experiencia.html"
+   location.href="itens/experiencia.html"
 }

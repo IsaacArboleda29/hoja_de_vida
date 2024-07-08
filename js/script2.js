@@ -5,8 +5,8 @@ function irAEstudios(){
     location.href="estudios.html"
  }
  function irACursos(){
-    location.href="Cursos.html"
+    location.href="cursos.html"
  }
  function irAExperiencia(){
-    location.href="Experiencia.html"
+    location.href="experiencia.html"
  }
